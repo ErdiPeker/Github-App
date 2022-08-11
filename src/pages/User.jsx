@@ -76,6 +76,7 @@ function User() {
                     href={html_url}
                     target="_blank"
                     className="btn btn-outline"
+                    rel="noreferrer"
                   >
                     Visit Github Profile
                   </a>
